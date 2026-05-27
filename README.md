@@ -28,7 +28,7 @@
 Spring Boot RESTful APIs for event management and seat allocation with role-based access control for 3 user types. PostgreSQL schema with optimistic locking to prevent ticket overselling. QR code ticket validation, deployed on AWS Lightsail, React dashboard with real-time sales analytics.
 `Spring Boot` `PostgreSQL` `React` `AWS` `JWT`
 
-**[🛒 Organic Food Shopping Platform](https://github.com/Mengzhen-Xue/organic-shop)**
+**[🛒 Organic Food Shopping Platform](https://github.com/Mengzhen-Xue/Origanic-food-Market.git)**
 Full-stack e-commerce with Next.js SEO-optimized frontend and Node.js/Express backend. WebSocket for real-time order and delivery updates, Redux state management, JWT auth, role-based admin panel with server-side input validation.
 `Next.js` `Node.js` `Redux` `WebSocket` `JWT`
 
